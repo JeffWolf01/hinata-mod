@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "minecraft:bowl" },
+    { "item": "minecraft:wheat" },
+    { "item": "minecraft:wheat" },
+    { "item": "minecraft:egg" },
+    { "item": "minecraft:cooked_porkchop" }
+  ],
+  "result": { "item": "hinatamod:ramen_bowl" }
+}

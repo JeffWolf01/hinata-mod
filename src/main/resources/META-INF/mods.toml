@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="hinatamod"
+version="1.0.0"
+displayName="Hinata Hyuga Companion"
+description='''
+Invoca a Hinata Hyuga lanzando un Shuriken Especial contra un árbol.
+Gánate su afecto con ramen y conversaciones; desbloquea interacciones y expresiones.
+'''
+
+[[dependencies.hinatamod]]
+modId="forge"
+mandatory=true
+versionRange="[47.2.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.hinatamod]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

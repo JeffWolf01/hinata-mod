@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "hinatamod:ramen_bowl" },
+    { "item": "minecraft:egg" },
+    { "item": "minecraft:dried_kelp" },
+    { "item": "minecraft:cooked_porkchop" }
+  ],
+  "result": { "item": "hinatamod:ichiraku_ramen" }
+}
